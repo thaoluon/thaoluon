@@ -6,15 +6,6 @@
   alt="Typing animation banner" 
 />
 
-<!-- Snake animation -->
-<img 
-  align="center" 
-  src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" 
-  alt="Snake animation" 
-/>
-
-
-
 
 - 🔭 I’m currently working on remote
 
